@@ -1,0 +1,8 @@
+== This is my Industry Project Sponsored by Cuba Street Bakehouse
+
+It is a website designed for the needs of Cuba Street Bakehouse.
+It has a user friendly custom made CMS and a specails module designed to take specials offline automatically based on expiry times to reduced human error.
+
+Viewable at www.timjensenwebdesign.co.nz
+
+
